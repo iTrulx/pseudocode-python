@@ -1,1 +1,1 @@
-# pseudocode-python
+# python
